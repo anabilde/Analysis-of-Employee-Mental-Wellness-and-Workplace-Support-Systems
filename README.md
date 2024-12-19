@@ -72,4 +72,18 @@ This project analyzes factors influencing employee mental wellness and evaluates
 
 ---
 
-This documentation highlights how mental wellness initiatives can transform workplace environments, ensuring both employee well-being and organizational success.
+## Contributing
+- Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+## Author
+- Anabil Sneha De
+- Anisha Dhar
+
+---
+
+## Acknowledgments
+- Dataset taken from Kaggle.
+- Special thanks to Thakur Khushbu Deepaksinh (IT trainer).
+- Anudip Foundation for providing this opportunity.
